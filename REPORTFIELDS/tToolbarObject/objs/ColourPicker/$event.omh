@@ -1,0 +1,4 @@
+On evClick
+	Do iReportRef.$applyselected.$assign(kTrue)
+	Do iReportRef.$textcolor.$assign($cobj.$contents)
+	Do iReportRef.$applyselected.$assign(kFalse)

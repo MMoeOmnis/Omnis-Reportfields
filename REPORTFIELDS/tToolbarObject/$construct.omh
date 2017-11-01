@@ -1,0 +1,2 @@
+;  st/hi/1064 - changed notation path - ram 31/1/2000
+Set reference iReportRef to $iwindows.wReportFields.$objs.ModifyReport.$ref

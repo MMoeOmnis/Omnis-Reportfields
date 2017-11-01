@@ -1,0 +1,25 @@
+{
+	"ident": 1026,
+	"order": 2,
+	"objtype": "kLabel",
+	"properties": {
+		"align": "kLeftJst",
+		"desgroup": 0,
+		"deslock": false,
+		"fieldstyle": "",
+		"floating": false,
+		"font": 4,
+		"fontextra": 0,
+		"fontsize": 14,
+		"fontstyle": "kBold",
+		"height": -1,
+		"left": 1.984,
+		"lineno": 1,
+		"lineoffset": 0.0,
+		"printontop": false,
+		"text": "Report of Teams and Divisions",
+		"textcolor": "kColorDefault",
+		"userinfo": "",
+		"width": 8.651
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"classtype": "kToolbar",
+	"internalversion": 4,
+	"designtaskname": "Startup_Task",
+	"nextident": 1013,
+	"cvardefs": [
+
+	],
+	"ivardefs": [
+		{
+			"name": "iReportRef",
+			"order": 1,
+			"type": "kItemref",
+			"subtype": "",
+			"sublen": 0
+		}
+	],
+	"properties": {
+		"allowdrag": true,
+		"allowresize": true,
+		"collectperformancedata": false,
+		"componenticon": 0,
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2017-03-09 14:50:06",
+		"desc": "",
+		"editor": "",
+		"editordata": "",
+		"enabled": true,
+		"external": false,
+		"helpfile": 0,
+		"inheritedorder": 0,
+		"initialdockingarea": "kDockingAreaFloating",
+		"issupercomponent": false,
+		"moddate": "2017-03-09 14:50:41",
+		"showascheckedout": false,
+		"title": {
+			"type": 0,
+			"calc": "Modify Report Toolbar"
+		},
+		"userinfo": "",
+		"users": "12345678",
+		"version": "1"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"ident": 1010,
+	"order": 2,
+	"objtype": "kToolFontCombo",
+	"properties": {
+		"enabled": true,
+		"helpfile": 0,
+		"iconid": 0,
+		"showwindowfonts": false,
+		"text": "",
+		"tooltip": {
+			"type": 0,
+			"calc": "Font type"
+		},
+		"userinfo": "",
+		"users": "12345678",
+		"width": 80
+	}
+}

@@ -1,0 +1,4 @@
+Install toolbar {tToolbarObject//120/200}
+Set reference iReportRef to $cwind.$objs.ModifyReport
+
+Do method setupListData

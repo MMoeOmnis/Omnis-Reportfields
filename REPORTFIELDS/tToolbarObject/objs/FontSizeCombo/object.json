@@ -1,0 +1,18 @@
+{
+	"ident": 1011,
+	"order": 3,
+	"objtype": "kToolFontsizeCombo",
+	"properties": {
+		"enabled": true,
+		"helpfile": 0,
+		"iconid": 0,
+		"text": "",
+		"tooltip": {
+			"type": 0,
+			"calc": "Font size"
+		},
+		"userinfo": "",
+		"users": "12345678",
+		"width": 50
+	}
+}

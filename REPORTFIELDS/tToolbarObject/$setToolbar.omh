@@ -1,0 +1,5 @@
+Do iReportRef.$applyselected.$assign(kTrue)
+Calculate $cinst.$objs.ColourPicker.$contents as iReportRef.$textcolor
+Calculate $cinst.$objs.FontCombo.$contents as iReportRef.$font
+Calculate $cinst.$objs.FontSizeCombo.$contents as iReportRef.$fontsize
+Do iReportRef.$applyselected.$assign(kFalse)

@@ -1,0 +1,5 @@
+On evSelectionChanged
+	Do $itoolbars.tToolbarObject.$setToolbar
+	
+On evRMouseDown
+	Set reference iObjectRef to $cobj

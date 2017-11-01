@@ -1,0 +1,5 @@
+On evClick     ;; Event Parameters - pRow( Itemreference )
+	Do iReportRef.$sortfields()     ;; open the sort fields dialog
+	
+On evRMouseDown
+	Set reference iObjectRef to $cobj

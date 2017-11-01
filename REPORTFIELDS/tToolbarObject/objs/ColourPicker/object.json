@@ -1,0 +1,21 @@
+{
+	"ident": 1007,
+	"order": 1,
+	"objtype": "kToolColorPicker",
+	"properties": {
+		"enabled": true,
+		"helpfile": 0,
+		"iconid": 0,
+		"text": {
+			"type": 0,
+			"calc": "Color Picker"
+		},
+		"tooltip": {
+			"type": 0,
+			"calc": "Color picker"
+		},
+		"userinfo": "",
+		"users": "12345678",
+		"varwidthtextplatforms": "kVWTMSWindows,kVWTmacOS,kVWTUnix"
+	}
+}

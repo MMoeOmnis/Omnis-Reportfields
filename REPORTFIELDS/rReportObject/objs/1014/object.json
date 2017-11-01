@@ -1,0 +1,25 @@
+{
+	"ident": 1014,
+	"order": 10,
+	"objtype": "kLabel",
+	"properties": {
+		"align": "kLeftJst",
+		"desgroup": 0,
+		"deslock": false,
+		"fieldstyle": "",
+		"floating": false,
+		"font": 4,
+		"fontextra": 0,
+		"fontsize": 12,
+		"fontstyle": "kBold",
+		"height": -1,
+		"left": 0.864,
+		"lineno": 10,
+		"lineoffset": 0.0,
+		"printontop": false,
+		"text": "Total",
+		"textcolor": "kColorDefault",
+		"userinfo": "",
+		"width": 3.97
+	}
+}

@@ -1,0 +1,6 @@
+;  Enter your initialization code here
+Calculate iReportList as pReportList
+
+Do iReportList.$redefine(iReportTeam,iReportDivision)
+
+Calculate iTotal as iReportList.$linecount

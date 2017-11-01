@@ -1,0 +1,4 @@
+On evClick
+	Do iReportRef.$applyselected.$assign(kTrue)
+	Do iReportRef.$font.$assign($cinst.$objs.FontCombo.$contents)
+	Do iReportRef.$applyselected.$assign(kFalse)

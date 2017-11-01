@@ -1,0 +1,12 @@
+On evClick     ;; Event Parameters - pRow( Itemreference )
+	Set report name rReportObject
+	
+	Begin reversible block     ;; keep user default report destination
+		Send to page preview
+	End reversible block
+	
+	Print report {(iReportList)}
+	End print
+	
+On evRMouseDown
+	Set reference iObjectRef to $cobj

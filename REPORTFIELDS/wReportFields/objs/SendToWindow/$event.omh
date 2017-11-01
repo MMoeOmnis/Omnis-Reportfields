@@ -1,0 +1,8 @@
+On evClick     ;; Event Parameters - pRow( Itemreference )
+	Set report name rReportObject
+	Send to a window field {ScreenReport}     ;; print the report in the window report field object
+	Print report {(iReportList)}
+	End print
+	
+On evRMouseDown
+	Set reference iObjectRef to $cobj
